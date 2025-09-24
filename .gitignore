@@ -1,2 +1,4 @@
 .idea
 Pipfile.lock
+/src/**/*.pth
+/src/chapter5/gpt2/

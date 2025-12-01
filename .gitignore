@@ -2,3 +2,6 @@
 Pipfile.lock
 /src/**/*.pth
 /src/chapter5/gpt2/
+/src/chapter6/*.csv
+/src/chapter6/sms_spam_collection/
+/src/chapter6/gpt2/*
